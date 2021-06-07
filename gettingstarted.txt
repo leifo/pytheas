@@ -1,0 +1,10 @@
+# Getting started with Pytheas code
+# Leif Oppermann, 25.09.2009
+
+1. bootstrap
+
+2. get gps
+
+3. trigger a region with gps
+
+4. get wi-fi

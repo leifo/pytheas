@@ -1,0 +1,12 @@
+# Pytheas todo list
+# rolling document, started 30.09.2009
+
+# 30.09.2009
+- lxo_gps: implement easy/smart class that instantiates the right GPSInterface automatically
+- lxo_gps: potentially get rid of gps.update()?
+- lxo_gps: add log file capabilities to GPS_FAKE, with filename and speedup and dynamically calculated SOG
+- lxo_gps: add support for external BT GPS receivers that also works on 1st and 2nd gen Nokia S60
+
+# 07.06.2021
+- modify for Raspberry Pi
+
